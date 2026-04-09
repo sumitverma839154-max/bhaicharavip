@@ -1,0 +1,289 @@
+[21-Jun-2021 22:21:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/hukosvex/public_html/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/hukosvex/public_html/index.php on line 155
+[21-Jun-2021 22:25:14 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/hukosvex/public_html/app/views/Eternity-cyan). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/hukosvex/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[21-Jun-2021 22:53:04 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "404.twig" (looked into: /home/hukosvex/public_html/app/views/Eternity-cyan). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('404.twig')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('404.twig')
+#2 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('404.twig')
+#3 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('404.twig')
+#4 /home/hukosvex/public_html/index.php(145): Twig_Environment->render('404.twig', Array)
+#5 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[22-Jun-2021 00:12:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/hukosvex/public_html/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/hukosvex/public_html/index.php on line 155
+[22-Jun-2021 00:18:03 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/hukosvex/public_html/app/views/Eternity-cyan). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/hukosvex/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[22-Jun-2021 08:20:57 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "forgot_password.twig" (looked into: /home/hukosvex/public_html/app/views/Eternity-cyan). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('forgot_password...')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('forgot_password...')
+#2 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('forgot_password...')
+#3 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('forgot_password...')
+#4 /home/hukosvex/public_html/index.php(145): Twig_Environment->render('forgot_password...', Array)
+#5 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[22-Jun-2021 11:27:39 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/hukosvex/public_html/app/views/Eternity-cyan). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/hukosvex/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[22-Jun-2021 11:38:33 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "404.twig" (looked into: /home/hukosvex/public_html/app/views/Eternity-cyan). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('404.twig')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('404.twig')
+#2 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('404.twig')
+#3 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('404.twig')
+#4 /home/hukosvex/public_html/index.php(207): Twig_Environment->render('404.twig', Array)
+#5 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[22-Jun-2021 12:50:24 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "404.twig" (looked into: /home/hukosvex/public_html/app/views/Eternity-cyan). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('404.twig')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('404.twig')
+#2 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('404.twig')
+#3 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('404.twig')
+#4 /home/hukosvex/public_html/index.php(207): Twig_Environment->render('404.twig', Array)
+#5 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[22-Jun-2021 18:07:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/hukosvex/public_html/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/hukosvex/public_html/index.php on line 155
+[22-Jun-2021 18:08:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/hukosvex/public_html/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/hukosvex/public_html/index.php on line 155
+[25-Oct-2023 01:06:01 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "login.twig" (looked into: /home/nokingxy/public_html/app/views). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('login.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('login.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('login.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('login.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('login.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 01:09:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home/nokingxy/public_html/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/nokingxy/public_html/index.php on line 155
+[25-Oct-2023 01:12:47 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/Engaging-cyan). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 01:14:33 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/pro-blue). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 01:14:42 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/pro-blue). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 01:14:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home/nokingxy/public_html/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/nokingxy/public_html/index.php on line 155
+[25-Oct-2023 01:15:54 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/pro-red). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 01:16:02 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/pro-red). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 01:16:47 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/pro-blue). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 01:17:24 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/pro). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 01:24:23 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/pro). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 01:39:12 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/pro-blue). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 01:42:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home/nokingxy/public_html/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/nokingxy/public_html/index.php on line 155
+[25-Oct-2023 01:45:11 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/pro-blue). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 01:51:27 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/pro-blue). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 02:10:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/nokingxy/public_html/app/helper/data_control.php:592
+Stack trace:
+#0 /home/nokingxy/public_html/admin/views/reports.php(97): dayCharge(29, 2, '2023', Array)
+#1 /home/nokingxy/public_html/admin/controller/reports.php(74): require('/home/nokingxy/...')
+#2 /home/nokingxy/public_html/app/controller/admin.php(11): require('/home/nokingxy/...')
+#3 /home/nokingxy/public_html/index.php(81): require('/home/nokingxy/...')
+#4 {main}
+  thrown in /home/nokingxy/public_html/app/helper/data_control.php on line 592
+[25-Oct-2023 02:23:01 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/pro-blue). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 02:23:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home/nokingxy/public_html/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/nokingxy/public_html/index.php on line 155
+[25-Oct-2023 02:23:20 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/pro-blue). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 13:07:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home/nokingxy/public_html/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/nokingxy/public_html/index.php on line 155
+[25-Oct-2023 13:08:29 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/pro-blue). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 13:08:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home/nokingxy/public_html/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/nokingxy/public_html/index.php on line 155
+[25-Oct-2023 19:11:51 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/pro-blue). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 22:53:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home/nokingxy/public_html/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/nokingxy/public_html/index.php on line 155
+[25-Oct-2023 22:58:31 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/pro-blue). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[25-Oct-2023 23:11:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home/nokingxy/public_html/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/nokingxy/public_html/index.php on line 155
+[25-Oct-2023 23:26:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/nokingxy/public_html/app/helper/data_control.php:592
+Stack trace:
+#0 /home/nokingxy/public_html/admin/views/reports.php(97): dayCharge(29, 2, '2023', Array)
+#1 /home/nokingxy/public_html/admin/controller/reports.php(74): require('/home/nokingxy/...')
+#2 /home/nokingxy/public_html/app/controller/admin.php(11): require('/home/nokingxy/...')
+#3 /home/nokingxy/public_html/index.php(81): require('/home/nokingxy/...')
+#4 {main}
+  thrown in /home/nokingxy/public_html/app/helper/data_control.php on line 592
+[25-Oct-2023 23:53:26 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/nokingxy/public_html/app/views/pro-blue). in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/nokingxy/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/nokingxy/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
